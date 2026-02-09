@@ -611,7 +611,7 @@ img {
   top: 50%;
   left: 50%;
   width: 408px;
-  max-height: 584px;
+  height: 584px;
   border-radius: 4px;
   padding: 72px 24px 24px 24px;
   overflow: auto;
@@ -686,8 +686,7 @@ img {
   font-size: 12px;
   line-height: 1.16;
   letter-spacing: 0.04em;
-  color: rgba(46, 47, 66, 0.4);
-  margin-top: 8px;
+  color: #8e8f99;
   margin-bottom: 24px;
 }
 
@@ -727,6 +726,7 @@ img {
   font-size: 12px;
   line-height: 1.16667;
   letter-spacing: 0.04em;
+  margin-bottom: 8px;
 }
 
 .text-field:focus,
